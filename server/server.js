@@ -39,7 +39,7 @@ app.post('/request', (req, res) => {
 		method: 'post',
 		url,
 		headers: {
-			Authorization: 'af86f4d53be7ec9a25cc1c386941dac740fd5753'
+			Authorization: ''
 		},
 		data: {
 			domain: "bit.ly",
