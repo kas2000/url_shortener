@@ -5,7 +5,7 @@ This is my first small project after a long break. It was built for educational 
 Getting to know overall JS syntax and ES6, API, etc.
 
 # install
-1. Download or fork this repository
+1. Download or pull this repository
 2. Get your authentication key by registering on bitly.com to acces
 3. Paste the key into server.js file inside requestOptions, as a value for Authorization field (line 42)
 4. In terminal do:
