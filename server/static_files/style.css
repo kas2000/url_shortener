@@ -1,0 +1,42 @@
+.main {
+	background-color: #3778C2;
+}
+
+.data__wrapper {
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.data__block {
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	margin: 0 auto;
+	height: 600px;
+	justify-content: space-around;
+}
+
+.data__button {
+	padding: 20px;
+	margin: 0 auto;
+	border-radius: 10px;
+	background-color: #FFBA35;
+	outline: none;
+	color: #fff;
+	border: initial;
+}
+
+.data__img {
+	height: 300px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.text_handler {
+	height: 40px;
+	border-radius: 8px;
+	outline: none;
+	border: 1px solid #FFBA35;
+	padding: 5px;
+}
