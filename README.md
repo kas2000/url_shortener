@@ -14,3 +14,5 @@ npm install
 node server
 ```
 5. Inside your browser go to localhost:3000
+
+![Alt text](server/static_files/screenshot.png?raw=true "Preview")
